@@ -1,0 +1,4 @@
+total 5.0K
+-rw-r--r-- 1 82102 197609 1.1K Oct 13 20:45 README.md
+-rw-r--r-- 1 82102 197609  123 Oct 13 20:53 file_list.txt
+-rw-r--r-- 1 82102 197609    0 Oct 13 20:55 word.txt
